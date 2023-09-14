@@ -52,7 +52,7 @@ const PruebasHooks = ( {contador, setContador} ) => {
             <th>
               <h4 className="cont">{contador}</h4>
               <button className="izquierda" onClick={ handleIzquierda }>Izquierda</button>
-              <button className="derecha" onClick={ handleDerecha }>Derecha</button>
+              <button className="derecha" onClick={ handleDerecha }>Derechao </button>
             </th>
           </tr>
         </table>
